@@ -1,0 +1,4 @@
+LocalFiles.Activity1, combucalc;md50f40a02d93b6b1d62fcdf18050402da3.Activity1
+LocalFiles.Activity1, combucalc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50f40a02d93b6b1d62fcdf18050402da3.Activity1
+LocalFiles.Activity1;md50f40a02d93b6b1d62fcdf18050402da3.Activity1
+localfiles.Activity1;md50f40a02d93b6b1d62fcdf18050402da3.Activity1

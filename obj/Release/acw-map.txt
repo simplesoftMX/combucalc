@@ -1,0 +1,3 @@
+LocalFiles.Activity1, combucalc;md5b36a3145e0296cd40e82ccfdae5fa38c.Activity1
+LocalFiles.Activity1;md5b36a3145e0296cd40e82ccfdae5fa38c.Activity1
+localfiles.Activity1;md5b36a3145e0296cd40e82ccfdae5fa38c.Activity1

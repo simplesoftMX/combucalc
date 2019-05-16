@@ -1,0 +1,7 @@
+/Users/gsantiagom/Documents/combucalc/obj/Release/android/assets/combucalc.dll
+/Users/gsantiagom/Documents/combucalc/obj/Release/android/assets/Java.Interop.dll
+/Users/gsantiagom/Documents/combucalc/obj/Release/android/assets/Mono.Android.dll
+/Users/gsantiagom/Documents/combucalc/obj/Release/android/assets/mscorlib.dll
+/Users/gsantiagom/Documents/combucalc/obj/Release/android/assets/System.Core.dll
+/Users/gsantiagom/Documents/combucalc/obj/Release/android/assets/System.dll
+/Users/gsantiagom/Documents/combucalc/obj/Release/android/assets/System.Runtime.Serialization.dll

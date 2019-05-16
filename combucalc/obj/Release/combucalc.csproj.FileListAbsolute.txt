@@ -1,0 +1,52 @@
+C:\Users\Gonzalo\documents\visual studio 2013\Projects\combucalc\combucalc\bin\Release\combucalc.dll
+C:\Users\Gonzalo\documents\visual studio 2013\Projects\combucalc\combucalc\bin\Release\combucalc.pdb
+C:\Users\Gonzalo\documents\visual studio 2013\Projects\combucalc\combucalc\bin\Release\combucalc.combucalc.apk
+C:\Users\Gonzalo\documents\visual studio 2013\Projects\combucalc\combucalc\bin\Release\combucalc.combucalc-Signed.apk
+C:\Users\Gonzalo\documents\visual studio 2013\Projects\combucalc\combucalc\obj\Release\combucalc.dll
+C:\Users\Gonzalo\documents\visual studio 2013\Projects\combucalc\combucalc\obj\Release\combucalc.pdb
+C:\Users\Gonzalo\documents\visual studio 2013\Projects\combucalc\combucalc\obj\Release\android\bin\combucalc.combucalc.apk
+C:\Users\Gonzalo\documents\visual studio 2013\Projects\combucalc\combucalc\obj\Release\res\layout\main.xml
+C:\Users\Gonzalo\documents\visual studio 2013\Projects\combucalc\combucalc\obj\Release\res\values\strings.xml
+C:\Users\Gonzalo\documents\visual studio 2013\Projects\combucalc\combucalc\obj\Release\res\drawable\icon.png
+C:\Users\Gonzalo\documents\visual studio 2013\Projects\combucalc\combucalc\obj\Release\R.cs.flag
+C:\Users\Gonzalo\documents\visual studio 2013\Projects\combucalc\combucalc\obj\Release\uploadflags.txt
+C:\Users\Gonzalo\documents\visual studio 2013\Projects\combucalc\combucalc\obj\Release\combucalc.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\documents\visual studio 2013\Projects\combucalc\combucalc\obj\Release\combucalc.dll.mdb
+C:\Users\Gonzalo\documents\visual studio 2013\Projects\combucalc\combucalc\bin\Release\combucalc.dll.mdb
+C:\Users\Santiago\Desktop\combucalc\combucalc\bin\Release\combucalc.dll
+C:\Users\Santiago\Desktop\combucalc\combucalc\bin\Release\combucalc.pdb
+C:\Users\Santiago\Desktop\combucalc\combucalc\bin\Release\combucalc.combucalc.apk
+C:\Users\Santiago\Desktop\combucalc\combucalc\bin\Release\combucalc.combucalc-Signed.apk
+C:\Users\Santiago\Desktop\combucalc\combucalc\obj\Release\combucalc.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\Desktop\combucalc\combucalc\obj\Release\combucalc.dll
+C:\Users\Santiago\Desktop\combucalc\combucalc\obj\Release\combucalc.pdb
+C:\Users\Santiago\Desktop\combucalc\combucalc\obj\Release\android\bin\combucalc.combucalc.apk
+C:\Users\Santiago\Desktop\combucalc\combucalc\obj\Release\res\layout\main.xml
+C:\Users\Santiago\Desktop\combucalc\combucalc\obj\Release\res\values\strings.xml
+C:\Users\Santiago\Desktop\combucalc\combucalc\obj\Release\res\drawable\icon.png
+C:\Users\Santiago\Desktop\combucalc\combucalc\obj\Release\R.cs.flag
+C:\Users\Santiago\Desktop\combucalc\combucalc\obj\Release\uploadflags.txt
+C:\Users\Santiago\Desktop\combucalc\combucalc\bin\Release\combucalc.dll.mdb
+C:\Users\Santiago\Desktop\combucalc\combucalc\bin\Release\combucalc.dllcombucalc.dll.mdb
+C:\Users\Santiago\Desktop\combucalc\combucalc\bin\Release\Mono.Android.dll.mdb
+C:\Users\Santiago\Desktop\combucalc\combucalc\bin\Release\mscorlib.dll.mdb
+C:\Users\Santiago\Desktop\combucalc\combucalc\bin\Release\System.Core.dll.mdb
+C:\Users\Santiago\Desktop\combucalc\combucalc\bin\Release\System.dll.mdb
+C:\Users\Santiago\Desktop\combucalc\combucalc\bin\Release\System.Runtime.Serialization.dll.mdb
+C:\Users\Santiago\Desktop\combucalc\combucalc\bin\Release\System.ServiceModel.Internals.dll.mdb
+C:\Users\Santiago\Desktop\combucalc\combucalc\bin\Release\System.Xml.dll.mdb
+C:\Users\Santiago\Desktop\combucalc\combucalc\bin\Release\System.Xml.Linq.dll.mdb
+C:\Users\Santiago\Desktop\combucalc\combucalc\obj\Release\android\assets\combucalc.dll.mdb
+C:\Users\Santiago\Desktop\combucalc\combucalc\obj\Release\android\assets\Mono.Android.dll.mdb
+C:\Users\Santiago\Desktop\combucalc\combucalc\obj\Release\android\assets\mscorlib.dll.mdb
+C:\Users\Santiago\Desktop\combucalc\combucalc\obj\Release\android\assets\System.Core.dll.mdb
+C:\Users\Santiago\Desktop\combucalc\combucalc\obj\Release\android\assets\System.dll.mdb
+C:\Users\Santiago\Desktop\combucalc\combucalc\obj\Release\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Santiago\Desktop\combucalc\combucalc\obj\Release\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Santiago\Desktop\combucalc\combucalc\obj\Release\android\assets\System.Xml.dll.mdb
+C:\Users\Santiago\Desktop\combucalc\combucalc\bin\Release\Java.Interop.dll.mdb
+C:\Users\Santiago\Desktop\combucalc\combucalc\bin\Release\System.ComponentModel.Composition.dll.mdb
+C:\Users\Santiago\Desktop\combucalc\combucalc\bin\Release\System.Net.Http.dll.mdb
+C:\Users\Santiago\Desktop\combucalc\combucalc\obj\Release\android\assets\Java.Interop.dll.mdb
+C:\Users\Santiago\Desktop\combucalc\combucalc\obj\Release\combucalc.dll.mdb
+C:\Users\Santiago\Desktop\combucalc\combucalc\bin\Release\combucalc.dll.mdb

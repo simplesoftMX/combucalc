@@ -1,0 +1,4 @@
+combucalc.MainActivity, combucalc;md5f4816b22202c5fbb20fb302fc780486a.MainActivity
+combucalc.MainActivity, combucalc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f4816b22202c5fbb20fb302fc780486a.MainActivity
+combucalc.MainActivity;md5f4816b22202c5fbb20fb302fc780486a.MainActivity
+combucalc.MainActivity;md5f4816b22202c5fbb20fb302fc780486a.MainActivity
