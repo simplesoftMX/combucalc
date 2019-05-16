@@ -1,4 +1,4 @@
-# combucalc2
+# combucalc
 xamarin basic gas calculator 
 
 Basic Gas Calculator Using Xamarin Android, 
